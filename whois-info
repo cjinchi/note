@@ -1,0 +1,87 @@
+oot@jcchen:~# whois 202.119.32.7
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '202.119.32.0 - 202.119.63.255'
+
+% Abuse contact for '202.119.32.0 - 202.119.63.255' is 'abuse@net.edu.cn'
+
+inetnum:        202.119.32.0 - 202.119.63.255
+netname:        NJU-CN
+descr:          Nanjing University
+descr:          Nanjing
+country:        CN
+admin-c:        JC1-CN
+tech-c:         ZZ1-CN
+tech-c:         CER-AP
+remarks:        origin AS4538
+mnt-irt:        IRT-CERNET-AP
+mnt-by:         MAINT-CERNET-AP
+status:         ASSIGNED NON-PORTABLE
+last-modified:  2013-08-08T23:18:30Z
+source:         APNIC
+
+irt:            IRT-CERNET-AP
+address:        Network Research Center,
+address:        Main Bldg, Tsinghua Univ
+address:        Beijing 100084, China
+phone:          +86-10-62784301
+fax-no:         +86-10-62785933
+e-mail:         abuse@net.edu.cn
+abuse-mailbox:  abuse@net.edu.cn
+admin-c:        CER-AP
+tech-c:         CER-AP
+auth:           # Filtered
+remarks:        timezone GMT+8
+remarks:        http://www.ccert.edu.cn
+mnt-by:         MAINT-CERNET-AP
+last-modified:  2010-11-26T03:14:01Z
+source:         APNIC
+
+role:           CERNET Helpdesk
+address:        Room 224, Main Building
+address:        Tsinghua University
+address:        Beijing 100084, China
+country:        CN
+phone:          +86-10-6278-4049
+fax-no:         +86-10-6278-5933
+e-mail:         cernet-helpdesk-ip@net.edu.cn
+remarks:        abuse@net.edu.cn
+admin-c:        XL1-CN
+tech-c:         SZ2-AP
+nic-hdl:        CER-AP
+remarks:        Point of Contact for admin-c
+mnt-by:         MAINT-CERNET-AP
+last-modified:  2011-12-06T00:10:30Z
+source:         APNIC
+
+person:         Chen Junliang
+address:        Network Information Center
+address:        Nanjing University
+address:        Nanjing, Jiangsu, 210093, China
+country:        CN
+phone:          +86-25-3317822
+fax-no:         +86-25-3302728
+e-mail:         chenjl@nju.edu.cn
+nic-hdl:        JC1-CN
+notify:         address-allocation-staff@net.edu.cn
+mnt-by:         MAINT-CERNET-AP
+last-modified:  2011-12-22T05:22:58Z
+source:         APNIC
+
+person:         Zheng Zhixiang
+address:        Network Information Center
+address:        Nanjing University
+address:        Nanjing,210093
+address:        China
+country:        CN
+phone:          +86 25 331 7822
+fax-no:         +86 25 330 2728
+e-mail:         niczheng@nju.edu.cn
+nic-hdl:        ZZ1-CN
+notify:         dbmon@apnic.net
+mnt-by:         MAINT-NULL
+last-modified:  2011-12-22T05:22:59Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.15-46 (WHOIS-NODE3)
