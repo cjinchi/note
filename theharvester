@@ -1,7 +1,3 @@
-Harvesting results
-No IP addresses found
-
-
 [+] Emails found:
 ------------------
 webmaster@nju.edu.cn
@@ -80,16 +76,15 @@ jsqiu@nju.edu.cn
 shenxuer@nju.edu.cn
 xianhch@nju.edu.cn
 025-89681170yuchunhong@nju.edu.cn
-XLZhang@nju.edu.cn
-tangchaosheng@nju.edu.cn
-tianyuchen@nju.edu.cn
-zhonghuan@nju.edu.cn
+'@nju.edu.cn
+'0_10_@nju.edu.cn
 xie@nju.edu.cn
 zhenhuang@nju.edu.cn
 foundation@nju.edu.cn
 yhzhang@nju.edu.cn
 ,xnying@nju.edu.cn
 Liujm@nju.edu.cn
+zhonghuan@nju.edu.cn
 zangyy@nju.edu.cn
 oa@nju.edu.cn
 NewStudent@lamda.nju.edu.cn
@@ -97,6 +92,8 @@ jzwang@nju.edu.cn
 yshi@nju.edu.cn
 mywang@nju.edu.cn
 mbaj@nju.edu.cn
+tangchaosheng@nju.edu.cn
+tianyuchen@nju.edu.cn
 liuyong@nju.edu.cn
 ITSC@nju.edu.cn
 zhoujl@nju.edu.cn
@@ -123,14 +120,6 @@ huazc@nju.edu.cn
 qiangxu@nju.edu.cn
 kongld@nju.edu.cn
 qzhao@nju.edu.cn
-ytzhang@nju.edu.cn
-yuting@nju.edu.cn
-yanl7557@nju.edu.cn
-sjhanmin@nju.edu.cn
-wanjg@nju.edu.cn
-songfengqi@nju.edu.cn
-gaoy@nju.edu.cn
-xym@nju.edu.cn
 dengz@nju.edu.cn
 qianyue@nju.edu.cn
 liwei_isg@nju.edu.cn
@@ -153,15 +142,6 @@ wanghao@nju.edu.cn
 zhangwl@nju.edu.cn
 jldyxlzs@nju.edu.cn
 hnc@hnc.nju.edu.cn
-shafuzhang@nju.edu.cn
-taoli@nju.edu.cn
-whzhang@nju.edu.cn
-zhangxiao@nju.edu.cn
-ccming@nju.edu.cn
-xupeng@nju.edu.cn
-wangjing@nju.edu.cn
-wqliu@nju.edu.cn
-shaoyc@nju.edu.cn
 yangwei@nju.edu.cn
 zhengjie@nju.edu.cn
 dulj@nju.edu.cn
@@ -198,8 +178,10 @@ liudejun@nju.edu.cn
 earthjw@nju.edu.cn
 zhouluying@nju.edu.cn
 yixuanzhao@nju.edu.cn
+taoli@nju.edu.cn
 ych@nju.edu.cn
 huojing@nju.edu.cn
+zhangxiao@nju.edu.cn
 rcb@nju.edu.cn
 art@nju.edu.cn
 pyn@nju.edu.cn
@@ -209,41 +191,34 @@ resume@jlxy.nju.edu.cn
 chenah@nju.edu.cn
 lil@nju.edu.cn
 lym011@nju.edu.cn
-xc@nju.edu.cn
-wrq11@nju.edu.cn
 zsforum@nju.edu.cn
 bwg@nju.edu.cn
 rlzhou@nju.edu.cn
 history@nju.edu.cn
 wsj@nju.edu.cn
+yanl7557@nju.edu.cn
 jlrs@jlxy.nju.edu.cn
-'@nju.edu.cn
-'0_10_@nju.edu.cn
  
 [+] Hosts found in search engines:
 ------------------------------------
 
-Total hosts: 210
+Total hosts: 196
 
 [-] Resolving hostnames IPs... 
  
 --www.nju.edu.cn:empty
 -admission.nju.edu.cn:empty
--chin.nju.edu.cn:empty
 -cslab.nju.edu.cn:empty
 -hospital.nju.edu.cn:empty
 -hugeo.nju.edu.cn:empty
 -law.nju.edu.cn:empty
 -ndzbb.nju.edu.cn:empty
--optics.nju.edu.cn:empty
 -pay.nju.edu.cn:empty
 -stuex.nju.edu.cn:empty
--tres.nju.edu.cn:empty
 BBSbbs.nju.edu.cn:empty
 Ctti.nju.edu.cn:202.119.32.33
 Ecard.nju.edu.cn:114.212.5.2
 Kms.nju.edu.cn:219.219.115.29
-P.nju.edu.cn:219.219.114.172
 Univ...-dawww.nju.edu.cn:empty
 access.nju.edu.cn:210.28.130.5
 admission.nju.edu.cn:202.119.32.7
@@ -289,7 +264,6 @@ elite.nju.edu.cn:202.119.32.33
 emba.nju.edu.cn:202.119.32.7
 eng.nju.edu.cn:202.119.32.7
 eol.nju.edu.cn:114.212.112.30
-ererc.nju.edu.cn:202.119.32.7
 es.nju.edu.cn:202.119.32.7
 ese.nju.edu.cn:202.119.32.7
 essi.nju.edu.cn:202.119.32.7
@@ -336,10 +310,8 @@ lamda.nju.edu.cn:empty
 law.nju.edu.cn:202.119.32.7
 lib.nju.edu.cn:114.212.7.71
 life.nju.edu.cn:202.119.32.7
-ltx.nju.edu.cn:202.119.32.33
 lxggxz.nju.edu.cn:202.119.32.7
-m.nju.edu.cn:empty
-mail.nju.edu.cn:121.51.130.237
+mail.nju.edu.cn:121.51.8.59
 mail.smail.nju.edu.cn:121.51.8.59
 malab.nju.edu.cn:202.119.32.7
 mba.nju.edu.cn:202.119.32.7
@@ -356,7 +328,7 @@ ndcwc.nju.edu.cn:202.119.32.7
 ndsc.nju.edu.cn:202.119.32.7
 ndzbb.nju.edu.cn:202.119.32.7
 ndzcgs.nju.edu.cn:202.119.32.7
-news.nju.edu.cn:116.211.138.208
+news.nju.edu.cn:27.221.108.52
 nhc.nju.edu.cn:202.119.55.10
 nic.nju.edu.cn:202.119.32.7
 nju.edu.cngrawww.nju.edu.cnwww.nju.edu.cnces.nju.edu.cnnubs.nju.edu.cnjw.nju.edu.cncs.nju.edu.cnlaw.nju.edu.cnnews.nju.edu.cn:empty
@@ -374,9 +346,7 @@ nlp.nju.edu.cn:114.212.189.224
 nsc2017.nju.edu.cn:202.119.32.7
 nubs.nju.edu.cn:202.119.32.7
 oa.nju.edu.cn:202.119.32.15
-ocer.nju.edu.cn:202.119.32.7
 oi.nju.edu.cn:202.119.32.7
-optics.nju.edu.cn:210.28.136.23
 p.nju.edu.cn:219.219.114.172
 pangroup.nju.edu.cn:202.119.32.7
 pay.nju.edu.cn:219.219.114.140
@@ -399,21 +369,16 @@ scit.nju.edu.cn:202.119.32.7
 sfs.nju.edu.cn:202.119.32.7
 sgos.nju.edu.cn:202.119.32.7
 skch.nju.edu.cn:202.119.32.33
-sklac.nju.edu.cn:202.119.32.33
 sklcc.nju.edu.cn:114.212.160.18
 skykfr.nju.edu.cn:219.219.122.4
 smail.nju.edu.cn:empty
 sme.nju.edu.cn:202.119.32.7
-sociology.nju.edu.cn:202.119.32.7
-software.nju.edu.cn:202.119.32.33
 song.nju.edu.cn:202.119.32.7
 ssnmr400.nju.edu.cn:empty
 study.nju.edu.cn:202.119.32.33
 stuex.nju.edu.cn:202.119.32.7
 stuwork.nju.edu.cn:202.119.32.7
 tiaozhanbei.nju.edu.cn:empty
-tres.nju.edu.cn:114.212.253.5
-tuanwei.nju.edu.cn:202.119.32.7
 tyb.nju.edu.cn:219.219.115.181
 tzb.nju.edu.cn:202.119.32.7
 vpn.nju.edu.cn:210.28.129.91
@@ -437,3 +402,619 @@ zhenda.nju.edu.cn:114.212.232.28
 zhwh.nju.edu.cn:202.119.32.7
 zsw.jlxy.nju.edu.cn:219.219.117.63
 zzb.nju.edu.cn:202.119.32.7
+
+
+[-] Scanning ports (active):
+
+- Scanning : 202.119.32.33
+         Detected open ports: 80,443,8080
+         Searching takeovers for Ctti.nju.edu.cn
+- Scanning : 114.212.5.2
+         Detected open ports: 80,22,8080,21
+         Searching takeovers for Ecard.nju.edu.cn
+HTTPSConnectionPool(host='ecard.nju.edu.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fb330a96e10>: Failed to establish a new connection: [Errno 111] Connection refused'))
+- Scanning : 219.219.115.29
+         Searching takeovers for Kms.nju.edu.cn
+HTTPSConnectionPool(host='kms.nju.edu.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fb330a8a908>: Failed to establish a new connection: [Errno 111] Connection refused'))
+- Scanning : 210.28.130.5
+         Detected open ports: 80,443,22
+         Searching takeovers for access.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for admission.nju.edu.cn
+- Scanning : 210.28.132.140
+         Detected open ports: 80,443,22,21
+         Searching takeovers for aics.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for arch.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for art.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for as.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for astronomy.nju.edu.cn
+- Scanning : 210.28.129.4
+         Searching takeovers for bbs.nju.edu.cn
+HTTPSConnectionPool(host='bbs.nju.edu.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fb3307b0f98>: Failed to establish a new connection: [Errno 111] Connection refused'))
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for bkzs.nju.edu.cn
+- Scanning : 210.28.130.6
+         Detected open ports: 80,443
+         Searching takeovers for box.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for bwc.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for capds.nju.edu.cn
+- Scanning : 210.28.130.10
+         Detected open ports: 80,443
+         Searching takeovers for ccmp.nju.edu.cn
+- Scanning : 202.119.32.33
+         Detected open ports: 80,443,8080
+         Searching takeovers for ces.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for cesbr.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for charity.nju.edu.cn
+- Scanning : 202.119.32.33
+         Detected open ports: 80,443,8080
+         Searching takeovers for chem.nju.edu.cn
+- Scanning : 202.119.32.33
+         Detected open ports: 80,443,8080
+         Searching takeovers for chin.nju.edu.cn
+- Scanning : 210.28.130.10
+         Detected open ports: 80,443
+         Searching takeovers for cicam.nju.edu.cn
+- Scanning : 210.28.130.10
+         Detected open ports: 80,443
+         Searching takeovers for cluster.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for coastlab.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for confucius.nju.edu.cn
+- Scanning : 210.28.130.10
+         Detected open ports: 80,443
+         Searching takeovers for crystal.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for cs.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for cslab.nju.edu.cn
+- Scanning : 114.212.216.19
+         Searching takeovers for cssci.nju.edu.cn
+HTTPSConnectionPool(host='cssci.nju.edu.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fb3307b03c8>: Failed to establish a new connection: [Errno 111] Connection refused'))
+- Scanning : 219.219.114.10
+         Detected open ports: 80,8080,21
+         Searching takeovers for cssrac.nju.edu.cn
+HTTPSConnectionPool(host='cssrac.nju.edu.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fb3307d2208>: Failed to establish a new connection: [Errno 111] Connection refused'))
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for ctl.nju.edu.cn
+- Scanning : 202.119.32.33
+         Detected open ports: 80,443,8080
+         Searching takeovers for ctti.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for cyd.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for dafls.nju.edu.cn
+- Scanning : 114.212.186.134
+         Detected open ports: 80,443
+         Searching takeovers for dawww.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for dii.nju.edu.cn
+- Scanning : 114.212.80.11
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for dwbgs.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for dxdztz.nju.edu.cn
+- Scanning : 202.119.32.33
+         Detected open ports: 80,443,8080
+         Searching takeovers for e-teaching.nju.edu.cn
+- Scanning : 114.212.5.2
+         Detected open ports: 80,22,8080,21
+         Searching takeovers for ecard.nju.edu.cn
+HTTPSConnectionPool(host='ecard.nju.edu.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fb3307d2e80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for edp.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for edu.nju.edu.cn
+- Scanning : 202.119.32.33
+         Detected open ports: 80,443,8080
+         Searching takeovers for elite.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for emba.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for eng.nju.edu.cn
+- Scanning : 114.212.112.30
+         Detected open ports: 80,443,21
+         Searching takeovers for eol.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for es.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for ese.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for essi.nju.edu.cn
+- Scanning : 210.28.130.9
+         Detected open ports: 80,443
+         Searching takeovers for exam.nju.edu.cn
+- Scanning : 202.119.32.33
+         Detected open ports: 80,443,8080
+         Searching takeovers for geology.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for gh.nju.edu.cn
+- Scanning : 210.28.130.14
+         Detected open ports: 80,443,22
+         Searching takeovers for git.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for grawww.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for hbwang.nju.edu.cn
+- Scanning : 219.219.114.65
+         Detected open ports: 80,22
+         Searching takeovers for history.nju.edu.cn
+HTTPSConnectionPool(host='history.nju.edu.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fb3307d2898>: Failed to establish a new connection: [Errno 111] Connection refused'))
+- Scanning : 202.119.32.96
+         Detected open ports: 80,443
+         Searching takeovers for historymuseum.nju.edu.cn
+- Scanning : 202.119.32.33
+         Detected open ports: 80,443,8080
+         Searching takeovers for hjxy.nju.edu.cn
+- Scanning : 202.119.55.10
+         Searching takeovers for hnc.nju.edu.cn
+HTTPSConnectionPool(host='hnc.nju.edu.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fb3307b0400>: Failed to establish a new connection: [Errno 111] Connection refused'))
+- Scanning : 114.212.194.65
+         Detected open ports: 80,8080
+         Searching takeovers for hospital.nju.edu.cn
+HTTPSConnectionPool(host='hospital.nju.edu.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fb330a96fd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+- Scanning : 210.28.130.10
+         Detected open ports: 80,443
+         Searching takeovers for hpc.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for hpcc.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for hqjt.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for hr.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for hwxy.nju.edu.cn
+- Scanning : 114.212.160.18
+         Detected open ports: 80,21
+         Searching takeovers for hysz.nju.edu.cn
+HTTPSConnectionPool(host='hysz.nju.edu.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fb3307d27f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for ias.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for iiiv.nju.edu.cn
+- Scanning : 114.212.80.2
+         Detected open ports: 80,443,22,8080
+         Searching takeovers for iip.nju.edu.cn
+HTTPSConnectionPool(host='iip.nju.edu.cn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError("bad handshake: Error([('SSL routines', 'ssl3_get_record', 'wrong version number')])")))
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for im.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for interface.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for itsc.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for jc.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for jfzhang.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for jianglab.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for jirlatest.nju.edu.cn
+- Scanning : 219.219.115.156
+         Detected open ports: 80,22
+         Searching takeovers for job.nju.edu.cn
+HTTPSConnectionPool(host='job.nju.edu.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fb3307db5c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for jshr.nju.edu.cn
+- Scanning : 219.219.117.63
+         Detected open ports: 80,8080
+         Searching takeovers for jw.jlxy.nju.edu.cn
+HTTPSConnectionPool(host='jw.jlxy.nju.edu.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fb3307d2e80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+- Scanning : 202.119.32.33
+         Detected open ports: 80,443,8080
+         Searching takeovers for jw.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for jwb.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for keysoftlab.nju.edu.cn
+- Scanning : 219.219.115.29
+         Searching takeovers for kms.nju.edu.cn
+HTTPSConnectionPool(host='kms.nju.edu.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fb3307d2748>: Failed to establish a new connection: [Errno 111] Connection refused'))
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for lamd.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for law.nju.edu.cn
+- Scanning : 114.212.7.71
+         Searching takeovers for lib.nju.edu.cn
+HTTPSConnectionPool(host='lib.nju.edu.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fb3307b06d8>: Failed to establish a new connection: [Errno 111] Connection refused'))
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for life.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for lxggxz.nju.edu.cn
+- Scanning : 121.51.8.59
+         Detected open ports: 80,443
+         Searching takeovers for mail.nju.edu.cn
+- Scanning : 121.51.8.59
+         Detected open ports: 80,443
+         Searching takeovers for mail.smail.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for malab.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for mba.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for mbe.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for med.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for media.nju.edu.cn
+- Scanning : 210.28.130.3
+         Detected open ports: 443,8080
+         Searching takeovers for mirrors.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for molab.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for mpacc.nju.edu.cn
+- Scanning : 219.219.115.97
+         Detected open ports: 80,22
+         Searching takeovers for museum.nju.edu.cn
+HTTPSConnectionPool(host='museum.nju.edu.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fb3307dbfd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for nanhai.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for ndcwc.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for ndsc.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for ndzbb.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for ndzcgs.nju.edu.cn
+- Scanning : 27.221.108.52
+         Detected open ports: 80,443,8080
+         Searching takeovers for news.nju.edu.cn
+- Scanning : 202.119.55.10
+         Searching takeovers for nhc.nju.edu.cn
+HTTPSConnectionPool(host='nhc.nju.edu.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fb3307db208>: Failed to establish a new connection: [Errno 111] Connection refused'))
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for nic.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for njuedf.nju.edu.cn
+- Scanning : 114.212.160.16
+         Searching takeovers for njulife.nju.edu.cn
+HTTPSConnectionPool(host='njulife.nju.edu.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fb3307db7f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+- Scanning : 114.212.189.224
+         Detected open ports: 80,443,8080,21
+         Searching takeovers for nlp.nju.edu.cn
+HTTPSConnectionPool(host='nlp.nju.edu.cn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError("bad handshake: Error([('SSL routines', 'ssl3_get_record', 'wrong version number')])")))
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for nsc2017.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for nubs.nju.edu.cn
+- Scanning : 202.119.32.15
+         Detected open ports: 80,443
+         Searching takeovers for oa.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for oi.nju.edu.cn
+- Scanning : 219.219.114.172
+         Detected open ports: 80,22
+         Searching takeovers for p.nju.edu.cn
+HTTPSConnectionPool(host='p.nju.edu.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fb3307d2b00>: Failed to establish a new connection: [Errno 111] Connection refused'))
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for pangroup.nju.edu.cn
+- Scanning : 219.219.114.140
+         Detected open ports: 80,22,8080,21
+         Searching takeovers for pay.nju.edu.cn
+HTTPSConnectionPool(host='pay.nju.edu.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fb3307d2278>: Failed to establish a new connection: [Errno 111] Connection refused'))
+- Scanning : 210.28.130.10
+         Detected open ports: 80,443
+         Searching takeovers for pfm2013.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for philo.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for physics.nju.edu.cn
+- Scanning : 210.28.130.4
+         Detected open ports: 80,443
+         Searching takeovers for pip.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for ptext.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for public.nju.edu.cn
+- Scanning : 219.219.114.80
+         Searching takeovers for pyb.nju.edu.cn
+HTTPSConnectionPool(host='pyb.nju.edu.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fb3307d26d8>: Failed to establish a new connection: [Errno 111] Connection refused'))
+- Scanning : 114.212.232.4
+         Detected open ports: 80,21
+         Searching takeovers for qpl.nju.edu.cn
+HTTPSConnectionPool(host='qpl.nju.edu.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fb3307c32b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for rczp.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for recent.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for rlrw.nju.edu.cn
+- Scanning : 219.219.117.63
+         Detected open ports: 80,8080
+         Searching takeovers for rsc.jlxy.nju.edu.cn
+HTTPSConnectionPool(host='rsc.jlxy.nju.edu.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fb3307c3160>: Failed to establish a new connection: [Errno 111] Connection refused'))
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for rwb.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for sccm.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for scit.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for sfs.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for sgos.nju.edu.cn
+- Scanning : 202.119.32.33
+         Detected open ports: 80,443,8080
+         Searching takeovers for skch.nju.edu.cn
+- Scanning : 114.212.160.18
+         Detected open ports: 80,21
+         Searching takeovers for sklcc.nju.edu.cn
+HTTPSConnectionPool(host='sklcc.nju.edu.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fb3307dbcf8>: Failed to establish a new connection: [Errno 111] Connection refused'))
+- Scanning : 219.219.122.4
+         Detected open ports: 80,22
+         Searching takeovers for skykfr.nju.edu.cn
+HTTPSConnectionPool(host='skykfr.nju.edu.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fb3307eba20>: Failed to establish a new connection: [Errno 111] Connection refused'))
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for sme.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for song.nju.edu.cn
+- Scanning : 202.119.32.33
+         Detected open ports: 80,443,8080
+         Searching takeovers for study.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for stuex.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for stuwork.nju.edu.cn
+- Scanning : 219.219.115.181
+         Searching takeovers for tyb.nju.edu.cn
+HTTPSConnectionPool(host='tyb.nju.edu.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fb3307db278>: Failed to establish a new connection: [Errno 111] Connection refused'))
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for tzb.nju.edu.cn
+- Scanning : 210.28.129.91
+         Searching takeovers for vpn.nju.edu.cn
+HTTPSConnectionPool(host='vpn.nju.edu.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fb330a8a5f8>: Failed to establish a new connection: [Errno 111] Connection refused'))
+- Scanning : 210.28.129.90
+         Detected open ports: 80,443
+         Searching takeovers for vpn3.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for wb.nju.edu.cn
+- Scanning : 219.219.115.21
+         Detected open ports: 80,443,22
+         Searching takeovers for webplus.nju.edu.cn
+HTTPSConnectionPool(host='webplus.nju.edu.cn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError("bad handshake: Error([('SSL routines', 'ssl_choose_client_version', 'unsupported protocol')])")))
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for webwap.nju.edu.cn
+- Scanning : 210.28.129.91
+         Searching takeovers for www-fabiao-com-s.vpn2.nju.edu.cn
+HTTPSConnectionPool(host='www-fabiao-com-s.vpn2.nju.edu.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fb3307d2be0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+- Scanning : 219.219.117.63
+         Detected open ports: 80,8080
+         Searching takeovers for www.jlxy.nju.edu.cn
+HTTPSConnectionPool(host='www.jlxy.nju.edu.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fb3307ebc18>: Failed to establish a new connection: [Errno 111] Connection refused'))
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for www.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for wyn.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for xgc.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for xiaoban.nju.edu.cn
+- Scanning : 219.219.114.6
+         Searching takeovers for xlzx.nju.edu.cn
+HTTPSConnectionPool(host='xlzx.nju.edu.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fb3307d2dd8>: Failed to establish a new connection: [Errno 111] Connection refused'))
+- Scanning : 202.119.32.177
+         Detected open ports: 80,443
+         Searching takeovers for xsgl.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for xueheng.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for xxgk.nju.edu.cn
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for yjy.nju.edu.cn
+- Scanning : 114.212.232.28
+         Detected open ports: 80,21
+         Searching takeovers for zhenda.nju.edu.cn
+HTTPSConnectionPool(host='zhenda.nju.edu.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fb3307c3390>: Failed to establish a new connection: [Errno 111] Connection refused'))
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for zhwh.nju.edu.cn
+- Scanning : 219.219.117.63
+         Detected open ports: 80,8080
+         Searching takeovers for zsw.jlxy.nju.edu.cn
+HTTPSConnectionPool(host='zsw.jlxy.nju.edu.cn', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fb3307b03c8>: Failed to establish a new connection: [Errno 111] Connection refused'))
+- Scanning : 202.119.32.7
+         Detected open ports: 80,443
+         Searching takeovers for zzb.nju.edu.cn
+
+
+[-] Shodan DB search (passive):
+
+        Searching for: empty
+SHODAN empty reply or error in the call
+        Searching for: 202.119.32.33
+SHODAN empty reply or error in the call
+        Searching for: 114.212.5.2
+SHODAN empty reply or error in the call
+        Searching for: 219.219.115.29
+SHODAN empty reply or error in the call
+        Searching for: 210.28.130.5
+SHODAN empty reply or error in the call
+        Searching for: 202.119.32.7
+SHODAN empty reply or error in the call
+        Searching for: 210.28.132.140
+SHODAN empty reply or error in the call
+        Searching for: 210.28.129.4
+SHODAN empty reply or error in the call
+        Searching for: 210.28.130.6
+SHODAN empty reply or error in the call
+        Searching for: 210.28.130.10
+SHODAN empty reply or error in the call
+        Searching for: 114.212.216.19
+SHODAN empty reply or error in the call
+        Searching for: 219.219.114.10
+SHODAN empty reply or error in the call
+        Searching for: 114.212.186.134
+SHODAN empty reply or error in the call
+        Searching for: 114.212.80.11
+SHODAN empty reply or error in the call
+        Searching for: 114.212.112.30
+SHODAN empty reply or error in the call
+        Searching for: 210.28.130.9
+SHODAN empty reply or error in the call
+        Searching for: 210.28.130.14
+SHODAN empty reply or error in the call
+        Searching for: 219.219.114.65
+SHODAN empty reply or error in the call
+        Searching for: 202.119.32.96
+SHODAN empty reply or error in the call
+        Searching for: 202.119.55.10
+SHODAN empty reply or error in the call
+        Searching for: 114.212.194.65
+SHODAN empty reply or error in the call
+        Searching for: 114.212.160.18
+SHODAN empty reply or error in the call
+        Searching for: 114.212.80.2
+SHODAN empty reply or error in the call
+        Searching for: 219.219.115.156
+SHODAN empty reply or error in the call
+        Searching for: 219.219.117.63
+SHODAN empty reply or error in the call
+        Searching for: 114.212.7.71
+SHODAN empty reply or error in the call
+        Searching for: 121.51.8.59
+SHODAN empty reply or error in the call
+        Searching for: 210.28.130.3
+SHODAN empty reply or error in the call
+        Searching for: 219.219.115.97
+SHODAN empty reply or error in the call
+        Searching for: 27.221.108.52
+SHODAN empty reply or error in the call
+        Searching for: 114.212.160.16
+SHODAN empty reply or error in the call
+        Searching for: 114.212.189.224
+SHODAN empty reply or error in the call
+        Searching for: 202.119.32.15
+SHODAN empty reply or error in the call
+        Searching for: 219.219.114.172
+SHODAN empty reply or error in the call
+        Searching for: 219.219.114.140
+SHODAN empty reply or error in the call
+        Searching for: 210.28.130.4
+SHODAN empty reply or error in the call
+        Searching for: 219.219.114.80
+SHODAN empty reply or error in the call
+        Searching for: 114.212.232.4
+SHODAN empty reply or error in the call
+        Searching for: 219.219.122.4
+SHODAN empty reply or error in the call
+        Searching for: 219.219.115.181
+SHODAN empty reply or error in the call
+        Searching for: 210.28.129.91
+SHODAN empty reply or error in the call
+        Searching for: 210.28.129.90
+SHODAN empty reply or error in the call
+        Searching for: 219.219.115.21
+SHODAN empty reply or error in the call
+        Searching for: 219.219.114.6
+SHODAN empty reply or error in the call
+        Searching for: 202.119.32.177
+SHODAN empty reply or error in the call
+        Searching for: 114.212.232.28
+SHODAN empty reply or error in the call
+
+ [+] Shodan results:
