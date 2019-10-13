@@ -14,6 +14,7 @@ nju123456
 nju654321
 njupassword
 njupasswd
+njuchenj
 ctf
 ctfnju
 ctfctf
@@ -30,6 +31,7 @@ ctf123456
 ctf654321
 ctfpassword
 ctfpasswd
+ctfchenj
 cs
 csnju
 csctf
@@ -46,6 +48,7 @@ cs123456
 cs654321
 cspassword
 cspasswd
+cschenj
 njucs
 njucsnju
 njucsctf
@@ -62,6 +65,7 @@ njucs123456
 njucs654321
 njucspassword
 njucspasswd
+njucschenj
 njuctf
 njuctfnju
 njuctfctf
@@ -78,6 +82,7 @@ njuctf123456
 njuctf654321
 njuctfpassword
 njuctfpasswd
+njuctfchenj
 cscms
 cscmsnju
 cscmsctf
@@ -94,6 +99,7 @@ cscms123456
 cscms654321
 cscmspassword
 cscmspasswd
+cscmschenj
 metasploit
 metasploitnju
 metasploitctf
@@ -110,6 +116,7 @@ metasploit123456
 metasploit654321
 metasploitpassword
 metasploitpasswd
+metasploitchenj
 2019
 2019nju
 2019ctf
@@ -126,6 +133,7 @@ metasploitpasswd
 2019654321
 2019password
 2019passwd
+2019chenj
 flag
 flagnju
 flagctf
@@ -142,6 +150,7 @@ flag123456
 flag654321
 flagpassword
 flagpasswd
+flagchenj
 vagrant
 vagrantnju
 vagrantctf
@@ -158,6 +167,7 @@ vagrant123456
 vagrant654321
 vagrantpassword
 vagrantpasswd
+vagrantchenj
 exploit
 exploitnju
 exploitctf
@@ -174,6 +184,7 @@ exploit123456
 exploit654321
 exploitpassword
 exploitpasswd
+exploitchenj
 123456
 123456nju
 123456ctf
@@ -190,6 +201,7 @@ exploitpasswd
 123456654321
 123456password
 123456passwd
+123456chenj
 654321
 654321nju
 654321ctf
@@ -206,6 +218,7 @@ exploitpasswd
 654321654321
 654321password
 654321passwd
+654321chenj
 password
 passwordnju
 passwordctf
@@ -222,6 +235,7 @@ password123456
 password654321
 passwordpassword
 passwordpasswd
+passwordchenj
 passwd
 passwdnju
 passwdctf
@@ -238,3 +252,21 @@ passwd123456
 passwd654321
 passwdpassword
 passwdpasswd
+passwdchenj
+chenj
+chenjnju
+chenjctf
+chenjcs
+chenjnjucs
+chenjnjuctf
+chenjcscms
+chenjmetasploit
+chenj2019
+chenjflag
+chenjvagrant
+chenjexploit
+chenj123456
+chenj654321
+chenjpassword
+chenjpasswd
+chenjchenj
