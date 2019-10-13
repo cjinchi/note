@@ -15,6 +15,7 @@ nju654321
 njupassword
 njupasswd
 njuchenj
+njuadministrator
 ctf
 ctfnju
 ctfctf
@@ -32,6 +33,7 @@ ctf654321
 ctfpassword
 ctfpasswd
 ctfchenj
+ctfadministrator
 cs
 csnju
 csctf
@@ -49,6 +51,7 @@ cs654321
 cspassword
 cspasswd
 cschenj
+csadministrator
 njucs
 njucsnju
 njucsctf
@@ -66,6 +69,7 @@ njucs654321
 njucspassword
 njucspasswd
 njucschenj
+njucsadministrator
 njuctf
 njuctfnju
 njuctfctf
@@ -83,6 +87,7 @@ njuctf654321
 njuctfpassword
 njuctfpasswd
 njuctfchenj
+njuctfadministrator
 cscms
 cscmsnju
 cscmsctf
@@ -100,6 +105,7 @@ cscms654321
 cscmspassword
 cscmspasswd
 cscmschenj
+cscmsadministrator
 metasploit
 metasploitnju
 metasploitctf
@@ -117,6 +123,7 @@ metasploit654321
 metasploitpassword
 metasploitpasswd
 metasploitchenj
+metasploitadministrator
 2019
 2019nju
 2019ctf
@@ -134,6 +141,7 @@ metasploitchenj
 2019password
 2019passwd
 2019chenj
+2019administrator
 flag
 flagnju
 flagctf
@@ -151,6 +159,7 @@ flag654321
 flagpassword
 flagpasswd
 flagchenj
+flagadministrator
 vagrant
 vagrantnju
 vagrantctf
@@ -168,6 +177,7 @@ vagrant654321
 vagrantpassword
 vagrantpasswd
 vagrantchenj
+vagrantadministrator
 exploit
 exploitnju
 exploitctf
@@ -185,6 +195,7 @@ exploit654321
 exploitpassword
 exploitpasswd
 exploitchenj
+exploitadministrator
 123456
 123456nju
 123456ctf
@@ -202,6 +213,7 @@ exploitchenj
 123456password
 123456passwd
 123456chenj
+123456administrator
 654321
 654321nju
 654321ctf
@@ -219,6 +231,7 @@ exploitchenj
 654321password
 654321passwd
 654321chenj
+654321administrator
 password
 passwordnju
 passwordctf
@@ -236,6 +249,7 @@ password654321
 passwordpassword
 passwordpasswd
 passwordchenj
+passwordadministrator
 passwd
 passwdnju
 passwdctf
@@ -253,6 +267,7 @@ passwd654321
 passwdpassword
 passwdpasswd
 passwdchenj
+passwdadministrator
 chenj
 chenjnju
 chenjctf
@@ -270,3 +285,22 @@ chenj654321
 chenjpassword
 chenjpasswd
 chenjchenj
+chenjadministrator
+administrator
+administratornju
+administratorctf
+administratorcs
+administratornjucs
+administratornjuctf
+administratorcscms
+administratormetasploit
+administrator2019
+administratorflag
+administratorvagrant
+administratorexploit
+administrator123456
+administrator654321
+administratorpassword
+administratorpasswd
+administratorchenj
+administratoradministrator
